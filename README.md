@@ -4,4 +4,4 @@ this is the builed of the working app, you can find the source on my other githu
 
 https://github.com/drewphillips/React_memory_game
 
-thanks!
+thanks! 
